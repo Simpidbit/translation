@@ -1,0 +1,1 @@
+从 [这里](./00.Learn_Vimscript_the_Hard_Way.笨方法学Vimscript.md) 开始.
